@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </br>
 Stack
 </br>
-<img src="https://img.shields.io/badge/HTML-#6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-#6DB33F?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Donghyup-Kim)](https://github.com/ryo-ma/github-profile-trophy)
