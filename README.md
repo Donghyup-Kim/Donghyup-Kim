@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghyup-Kim&count_bg=%23CE95F0&title_bg=%23E6CA5D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Donghyup-Kim)
 </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Donghyup-Kim)](https://github.com/ryo-ma/github-profile-trophy)
 ![Donghyup-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Donghyup-Kim&show_icons=true)
 [![Donghyup-Kim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyup-Kim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Donghyup-Kim)
-
+</div>
