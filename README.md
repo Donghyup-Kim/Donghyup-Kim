@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?color= A3DCBE)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDonghyup-Kim&count_bg=%23CE95F0&title_bg=%23E6CA5D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Donghyup-Kim)
 </br>
