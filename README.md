@@ -20,8 +20,13 @@ Here are some ideas to get you started:
 </br>
 Stack
 </br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Donghyup-Kim)](https://github.com/ryo-ma/github-profile-trophy)
 ![Donghyup-Kim's github stats](https://github-readme-stats.vercel.app/api?username=Donghyup-Kim&show_icons=true)
